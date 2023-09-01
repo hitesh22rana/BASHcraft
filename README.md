@@ -1,6 +1,6 @@
-# 🚀 Bash Tutorials
+# 🚀 BASHcraft
 
-Welcome to the BASH Tutorials Repository! 🎉 This repository is your launching pad to become a BASH scripting superstar! 🌟 Whether you're a beginner or a seasoned shell warrior, we've got you covered. Strap in as we embark on this exciting journey into the world of BASH scripting. 🚀
+Welcome to BASHcraft! 🎉 your ultimate destination to master the art of BASH scripting! Whether you're a command-line novice or a seasoned shell warrior, ⚔️ BASHcraft is your gateway to scripting wizardry.🧙 Dive into our structured classes, harness the power of BASH, and automate like a pro. Get ready to level up your Unix-like system skills with us!🚀
 
 ![Bash Logo](https://bashlogo.com/img/symbol/png/full_colored_dark.png)
 
