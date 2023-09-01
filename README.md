@@ -20,13 +20,13 @@ Ready to embark on your BASH adventure? Let's kick things off! 🔥
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/hitesh22rana/bash-tutorials
+    git clone https://github.com/hitesh22rana/BASHcraft
     ```
 
 2. Navigate to the repository directory:
 
     ```bash
-    cd bash-tutorials
+    cd BASHcraft
     ```
 
 3. Dive into the first class by checking out the `class01/` directory. 📖
@@ -92,6 +92,6 @@ Enjoy the magic of the automated directory structure generator script! ✨
 
 ## Contributing
 
-Join our BASH-tastic community! Contributions are not just welcome; they're celebrated! If you spot issues, have brilliant ideas, or want to add more awesomeness, open an issue or send a pull request. Let's make BASH even more fantastic together! 🚀🌟
+Join our BASH-tastic community! Contributions are not just welcome; they're celebrated! If you spot issues, have brilliant ideas, or want to add more awesomeness, open an issue or send a pull request. Let's make BASH even more fantastic together!
 
-Happy BASH scripting! 🚀🐚🔥
+Happy BASH scripting!🔥
