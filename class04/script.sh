@@ -5,9 +5,11 @@
 name="Hitesh"
 age="21"
 
-if [ $num < 200 ]
+num=$1
+
+if [ 200 -eq $1 ]
 then
-    echo "Number is less than 200"
+    echo "Number is equal to 200"
 else
-    echo "Number is greater than or equal to 200"
+    echo "Number is not equal to 200"
 fi
